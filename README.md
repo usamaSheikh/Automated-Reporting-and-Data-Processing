@@ -37,6 +37,12 @@ This project demonstrates how to automate the generation of reports from a datas
 
 ### Output:
 - Screenshot 1: Data processing results.
+- ![image](https://github.com/user-attachments/assets/993df2a3-1376-47b7-9525-4a163529bb8a)
+
 - Screenshot 2: Generated sales charts.
+- ![image](https://github.com/user-attachments/assets/b930b797-fbac-425a-89ff-f0751abbc5ff)
+
 - Screenshot 3: PDF report generated with sales data.
+- ![image](https://github.com/user-attachments/assets/1fcda238-b1d7-46f6-a7d2-dd158b938038)
+
 
