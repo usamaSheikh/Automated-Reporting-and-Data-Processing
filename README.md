@@ -17,23 +17,22 @@ This project demonstrates how to automate the generation of reports from a datas
 
 ## How to Run:
 1. Install Required Dependencies:
-     You need the following Python libraries:
-     pip install pandas matplotlib fpdf
+     - You need the following Python libraries:
+     - pip install pandas matplotlib fpdf
 
 2. Create Necessary Directories:
-     Create a data/ folder for the dataset and a reports/ folder to save the generated PDF reports and charts:
-     mkdir data reports
+     - Create a data/ folder for the dataset and a reports/ folder to save the generated PDF reports and charts:
+     - mkdir data reports
 
 3. Place the Dataset in the data/ Folder:
-
-     Put the sales_data.csv file into the data/ folder.
+     - Put the sales_data.csv file into the data/ folder.
 
 4. Run the Scripts:
-     Run the data processing script:
-     python data_processing.py
+     - Run the data processing script:
+     - python data_processing.py
 
 5. Run the report generation script to create the PDF report:
-     python report_generation.py
+     - python report_generation.py
 
 
 ### Output:
